@@ -54,4 +54,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## İletişim
 
-Sorularınız veya önerileriniz için: [email@example.com](mailto:email@example.com) 
+Sorularınız veya önerileriniz için: [ysfyldz@gmail.com](mailto:ysfyldz@gmail.com) 
